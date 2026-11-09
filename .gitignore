@@ -1,0 +1,26 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE and local agent settings
+.idea/
+.vscode/
+.agents/
+.codex/
+
+# Operating-system files
+Thumbs.db
+.DS_Store
+
+# Generated figures and intermediate outputs
+中文结果图/
+异步粒子滤波融合大厅-CDF图-英文结果图/
+active_segment/
+
+# Local logs and temporary files
+*.log
+*.tmp
+~$*
